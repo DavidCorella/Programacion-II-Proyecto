@@ -1,0 +1,5 @@
+Distribuidor: Pepe
+Codigo: 100
+Nombre:  Carne
+Precio:  3000.0
+Cantidad: 50
